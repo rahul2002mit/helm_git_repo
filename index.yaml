@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-06T13:55:17.5700532-05:00"
+    description: Git hub Repo publishing
+    digest: 7708f6559cb40d15bf5f636a11393464727e17c80d640d9aacf26f089e90c4b5
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-06T13:55:17.4595703-05:00"
